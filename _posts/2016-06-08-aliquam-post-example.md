@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A quick view of aliquam post
+title: 测试
 category: example
 comments: true
 description: This page is only for demonstration purposes. It shows the styling of all the components found in Aliquam theme.
