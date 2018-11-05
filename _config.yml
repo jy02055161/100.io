@@ -1,10 +1,5 @@
-
-##########################################
-#     Change these variables !important
-##########################################
-
 # Set this for Copyright in the footer
-owner: Name Surname
+owner: zhy
 
 # Optional quote in the footer
 # To disable set enable to false
@@ -15,7 +10,7 @@ quote:
 
 # Set this to your main site title. If page doesn't have its own title,
 # then this title will be used.
-title: Aliquam Theme
+title: 大白云的博客
 
 
 # Following needed for disqus integration
